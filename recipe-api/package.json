@@ -1,0 +1,11 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "1.1",
+    "@grpc/proto-loader": "0.5",
+    "fastify": "3.2"
+  }
+}
